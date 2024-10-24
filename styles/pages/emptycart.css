@@ -1,0 +1,18 @@
+.emptyCart-dog{
+    max-width: fit-content;
+    min-width: none;
+    max-height: fit-content;
+    min-height: fit-content;
+    /* height: 80vh;
+    width: 100vw; */
+    margin-top: 100px;
+}
+
+.emptycart-button{
+    width: 300px;
+    height: 35px;
+    border-radius: 3px;
+    background-color: rgb(255, 216, 20);
+    border: 1px solid rgb(252, 210, 0);
+    font-weight:500;
+}
